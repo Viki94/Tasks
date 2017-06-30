@@ -36,3 +36,12 @@ Set data variable to be an object with parameters named rows and colums
     AutoFitColumnE1 method accepts worksheet as argument. This method selects the cell "E1" and resize the column width to fit the text in cells.
 
     SaveFileInDirectory method accepts excelApp as argument. This method creates Excel file named scores.xlsx and saves it in the solution directory
+
+
+    Task 2:
+
+    This project contains only one class named Factriel which counts factoriel numbers (always random genereted between 1 and 10)
+
+    Stopwatch sw = Stopwatch.StartNew(); - begun measuring elapsed time
+
+    After these two loops we can see the elapsed time
